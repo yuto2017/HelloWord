@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					B63885871F67DEF80076005C = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = SLJ37UURMX;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,7 +261,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SLJ37UURMX;
 				INFOPLIST_FILE = "HelloWorld-techacademy/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "yuto.mori.HelloWorld-techacademy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,7 +275,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SLJ37UURMX;
 				INFOPLIST_FILE = "HelloWorld-techacademy/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "yuto.mori.HelloWorld-techacademy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
